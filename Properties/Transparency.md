@@ -23,7 +23,7 @@ Can be set through object properties
 
 ## Inputs
 
-You Can Give it a path
+To modify a object Transparency it is required for the object path to be given.
           
 **Example**
 
