@@ -23,8 +23,6 @@ Can be set through object properties
 
 ## Inputs
 
-#### Objects
-
 You Can Give it a path
           
 **Example**
