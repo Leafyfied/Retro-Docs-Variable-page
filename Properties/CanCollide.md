@@ -4,7 +4,9 @@
 
 The CanCollide Property determines wether the object,Parent or Child can collide with the Players.
 All though CanCollide is the main Name of this property.It can be referred to as "PlayerCollisions"
-**Note:For Parts,CanCollide Properties will be Enabled by Default**
+
+**Note:For Parts,
+CanCollide Properties will be Enabled by Default**
 
 ## Can be used Through
 
