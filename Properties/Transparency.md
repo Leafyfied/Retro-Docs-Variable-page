@@ -61,7 +61,7 @@ This Part will Show how to use the Transparency Property Through Set object Prop
 
 >then down below will be the value box
 
->in the value box choose number and set any number
+>in the value box choose number and set any number from 0 to 1
 
 **Usage through Manual property**
 
