@@ -23,7 +23,7 @@ Can be set through object properties
 
 ## Inputs
 
-To modify a object Transparency it is required for the object path to be given.
+To modify a object Transparency, If you do it with the help of set Object Property, it is required for the object path to be given.
           
 **Example**
 
