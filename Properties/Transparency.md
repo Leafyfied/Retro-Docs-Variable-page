@@ -23,7 +23,7 @@ Can be set through object properties
 
 ## Inputs
 
-#### Object (Object)
+#### Objects
 
 You Can Give it a path
           
