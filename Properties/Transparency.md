@@ -1,11 +1,11 @@
 
-# Tranparency
+# Transparency
 
 ## Description
 
 Change the Transparency of an Object
 
-**Note:The Transparency Property does not affect player Collisions,Therefore a Transparent object will not disable Player Collison**
+**Note:The Transparency Property does not affect player Collisions,Therefore a Transparent object will not disable Player Collisions**
 
 ## Can be used Through 
 
@@ -33,7 +33,7 @@ You Can Give it a path
 
 **Change Of Transparency**
 
-The Tranparency depends on the number
+The Transparency depends on the number
 
 **Example**
 
